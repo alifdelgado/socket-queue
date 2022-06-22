@@ -1,0 +1,35 @@
+{
+    "last": 7,
+    "today": 22,
+    "tickets": [
+        {
+            "number": 1,
+            "desk": null
+        },
+        {
+            "number": 2,
+            "desk": null
+        },
+        {
+            "number": 3,
+            "desk": null
+        },
+        {
+            "number": 4,
+            "desk": null
+        },
+        {
+            "number": 5,
+            "desk": null
+        },
+        {
+            "number": 6,
+            "desk": null
+        },
+        {
+            "number": 7,
+            "desk": null
+        }
+    ],
+    "lastFour": []
+}
